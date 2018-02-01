@@ -1,0 +1,28 @@
+
+#wrapper {
+
+  width: 1500px;
+  height: 900px;
+  margin: 0px;
+}
+
+#pokepic{
+  width: 650px;
+  height: 800px;
+  display: inline-block;
+  overflow: auto;
+
+}
+
+#asideinfo {
+    border: 10px solid lightblue;
+    vertical-align: top;
+    width: 300px;
+    height: 500px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 30px;
+    padding-left: 10px;
+
+
+}
